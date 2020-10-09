@@ -1,4 +1,4 @@
-I'm starting a new life in coding.  Thank you Flatiron School for offereing an unbelievable Software Engineering Program.
+I'm starting a new life in coding.  Thank you Flatiron School for offering an unbelievable Software Engineering Program.
                 
 I'm a proactive individual with strong skills in project management, identifying and troubleshooting critical issues and team collaboration. Possessing an acute eye for graphic design & marketing, I also come with a passion for innovative tech. 
 
