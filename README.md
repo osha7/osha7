@@ -1,5 +1,5 @@
 
-                With a background in fashion and restaurants (? yes, IDK either!?), it was time to make a change!
+                With a background in fashion and restaurants (? yes, this makes me crazy, but even better! ?), it was time to make a change!
                 I'm starting a new life in coding and pretty nervous, but proud of myself and how much I learned in the Flatiron Software Engineer Program.
                 
                 I'm a proactive individual with strong skills in project management, identifying and troubleshooting critical issues and team collaboration. 
