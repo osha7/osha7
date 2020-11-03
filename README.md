@@ -1,4 +1,5 @@
-<a href="https://drive.google.com/uc?export=view&id=<FILEID>"><img src="https://drive.google.com/uc?export=view&id=1LDTag1RXLpKDIBsuvHlRyeyd-GADTlnF" 
+
+![image](https://drive.google.com/uc?export=view&id=1LDTag1RXLpKDIBsuvHlRyeyd-GADTlnF")
 
 Software Engineer with strong skills in project management, identifying and troubleshooting critical issues and team collaboration. Possessing an acute eye for design & marketing, I also come with a passion for innovative tech. 
 
