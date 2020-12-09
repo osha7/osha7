@@ -1,6 +1,6 @@
 
 
-- Software Engineer with strong skills in project management, identifying and troubleshooting critical issues and team collaboration. Possessing an acute eye for design & marketing, I have tremendous passion for innovative tech. 
+- Software Engineer with strong skills in project management, identifying and troubleshooting critical issues and team collaboration.
 
 - Experienced in React.JS and Ruby on Rails based programming with a background in business development and start-up growth.
 
