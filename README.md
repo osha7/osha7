@@ -1,6 +1,6 @@
-# Hi!
+# Hi! Welcome to my github!
 
-[![My Header](https://imgur.com/3y9wy6H)
+[Imgur](https://i.imgur.com/3y9wy6H.png)
 
 - Software Engineer with strong skills in project management, identifying and troubleshooting critical issues and team collaboration.
 
