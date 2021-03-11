@@ -1,5 +1,3 @@
-# Hi! Welcome to my github!
-
 ![Imgur](https://i.imgur.com/3y9wy6H.png)
 
 - Software Engineer with strong skills in project management, identifying and troubleshooting critical issues and team collaboration.
