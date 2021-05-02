@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/bBuZuBR.png)
+![Imgur](https://i.imgur.com/Uvm0p0Z.jpg)
 
 - Software Engineer with strong skills in project management, identifying and troubleshooting critical issues and team collaboration.
 
